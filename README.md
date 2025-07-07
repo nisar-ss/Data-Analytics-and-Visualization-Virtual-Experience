@@ -1,17 +1,13 @@
 🗂️ Dataset Description: <br>
-Data from a client’s retail business, involving sales, profit margins, and customer data.
+Data from a client’s retail business, involving customer experience, customer interest and feedback.
 
 📊 Key Data Points:
 
-Order ID, Customer ID
+User ID, Name, Email, Age
 
-Product Category/Sub-Category
+Sentiment, Score Interests
 
-Sales, Profit, Discount
-
-Shipping Date, Order Date
-
-Region, Segment
+Datetime, Duration
 
 📌 Purpose: <br>
-To clean and transform raw data and build a Power BI dashboard that helps Accenture consultants make data-driven client decisions.
+To clean and transform raw data and build a Tableau dashboard that helps Accenture consultants make data-driven client decisions.
